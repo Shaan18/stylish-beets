@@ -60,5 +60,31 @@ main figure + p {
 }
 
 blockquote {
-  font-size:
+  font-size: 1.5rem;
+  font-style: italic;
+}
+
+blockquote strong {
+  font-weight: normal;
+}
+
+.serving {
+  font-style: italic;
+}
+
+dt {
+  font-weight: bold;
+}
+
+.varieties {
+  list-style-type: lower-greek;
+}
+
+aside ul {
+  font-size: .8rem;
+  list-style-type: circle;
+}
+
+small {
+  font-size: .8rem;
 }
